@@ -18,7 +18,7 @@ img {
   background-color: #fff;
 }
 .column {
-  width: 500px;
+  width: 50%;
   float: left;
 }
 img.blog {
