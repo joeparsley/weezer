@@ -1,0 +1,27 @@
+body {
+  background-color: #1a75ff;
+}
+h1 {
+  text-shadow: 2px 2px 4px #000;
+  color: #fff;
+  text-align: center;
+  font-size: 200px;
+  font-family: monospace;
+}
+img {
+  width: 75%;
+  display: block;
+  margin: auto;
+}
+.navigation {
+  float: right;
+  background-color: #fff;
+}
+.column {
+  width: 500px;
+  float: left;
+}
+img.blog {
+  float: left;
+  width: 25%;
+}
